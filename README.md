@@ -146,7 +146,7 @@ The system will display the received notification and save it to MySQL.
 
 ## Notes
 
-- Ensure that RabbitMQ and MySQL are running before starting any script.
-- Modify the MySQL username and password in the Python scripts to match your configuration.
+Ensure that RabbitMQ is running before starting any script.
+```
 
----
+This markdown format will be ideal for a `README.md` file in your repository.
