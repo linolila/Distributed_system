@@ -110,4 +110,3 @@ The system will display the notification received.
 Ensure that RabbitMQ is running before starting any script.
 ```
 
-This markdown format will be ideal for a `README.md` file in your repository.
