@@ -1,7 +1,5 @@
 
 
----
-
 # Distributed Task and Notification System
 
 ## Description
@@ -147,6 +145,3 @@ The system will display the received notification and save it to MySQL.
 ## Notes
 
 Ensure that RabbitMQ is running before starting any script.
-```
-
-This markdown format will be ideal for a `README.md` file in your repository.
