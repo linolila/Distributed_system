@@ -108,5 +108,5 @@ The system will display the notification received.
 ## Notes
 
 Ensure that RabbitMQ is running before starting any script.
-```
+
 
